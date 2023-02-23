@@ -1,0 +1,230 @@
+@import url(https://fonts.googleapis.com/css?family=Inter&display=swap);
+
+
+
+
+.background { 
+	background-color:rgba(255, 255, 255, 1);
+	width:733px;
+	height:493px;
+	position:absolute;
+}
+.resume-bg { 
+	width:237px;
+	height:124px;
+	position:absolute;
+	left:461px;
+	top:170px;
+}
+.resume-bx { 
+	background-image:linear-gradient(0deg, rgba(255, 255, 255, 0.6600000262260437) 0%,rgba(255, 244.2687526345253, 147.68749594688416, 0) 0.009999999747378752%,rgba(244.76237654685974, 209.41544204950333, 122.56725668907166, 0.171875) 0.019999999494757503%,rgba(218.86789083480835, 121.25938206911087, 59.0295284986496, 0) 0.029999998514540493%) ;
+	width:237px;
+	height:124px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.total-lb { 
+	color:rgba(0, 0, 0, 1);
+	width:97px;
+	height:34px;
+	position:absolute;
+	left:22px;
+	top:9px;
+	font-family:Inter;
+	text-align:left;
+	font-size:28px;
+	letter-spacing:0;
+}
+.total { 
+	color:rgba(0, 0, 0, 1);
+	width:180px;
+	height:34px;
+	position:absolute;
+	left:119px;
+	top:11px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.subtotal-lb { 
+	color:rgba(0, 0, 0, 1);
+	width:97px;
+	height:15px;
+	position:absolute;
+	left:22px;
+	top:50px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.subtotal { 
+	color:rgba(0, 0, 0, 1);
+	width:118px;
+	height:15px;
+	position:absolute;
+	left:119px;
+	top:49px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.discount-lb { 
+	color:rgba(0, 0, 0, 1);
+	width:97px;
+	height:15px;
+	position:absolute;
+	left:22px;
+	top:72px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.discount { 
+	color:rgba(0, 0, 0, 1);
+	width:190px;
+	height:15px;
+	position:absolute;
+	left:119px;
+	top:72px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.resume-btn { 
+	width:176px;
+	height:19px;
+	position:absolute;
+	left:31px;
+	top:95px;
+}
+
+.order-btn{
+
+	font-family: Roboto, sans-serif;
+	font-weight: 0;
+	font-size: 14px;
+	color: #fff;
+	background-color: #d65e3f;
+	padding: 10px 30px;
+	border: 2px solid #d65e3f;
+	box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+	border-radius: 50px;
+	transition : 1000ms;
+	transform: translateY(0);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+	}
+	
+.order-btn:hover{
+	transition : 1000ms;
+	padding: 10px 50px;
+	transform : translateY(-0px);
+	background-color: #fff;
+	color: #e97d62;
+	border: solid 2px #e97d62;
+	}
+
+.products-bg { 
+	width:378px;
+	height:392px;
+	position:absolute;
+	left:58px;
+	top:44px;
+}
+.item-bg { 
+	background-color:rgba(255, 255, 255, 1);
+	width:378px;
+	height:392px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.item1 { 
+	width:316px;
+	height:80px;
+	position:absolute;
+	left:30px;
+	top:74px;
+}
+.product-name { 
+	color:rgba(0, 0, 0, 1);
+	width:158px;
+	height:21px;
+	position:absolute;
+	left:150px;
+	top:8px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.product-value { 
+	color:rgba(0, 0, 0, 1);
+	width:158px;
+	height:21px;
+	position:absolute;
+	left:150px;
+	top:40px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.item2 { 
+	width:316px;
+	height:80px;
+	position:absolute;
+	left:31px;
+	top:166px;
+}
+.product-img { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:76px;
+	height:60px;
+	position:absolute;
+	left:57px;
+	top:8px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.product-cb { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:18px;
+	height:18px;
+	position:absolute;
+	left:15px;
+	top:29px;
+	border-top-left-radius:100px;
+	border-top-right-radius:100px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
+}
+.item3 { 
+	width:316px;
+	height:80px;
+	position:absolute;
+	left:31px;
+	top:258px;
+}
+.cart-title { 
+	color:rgba(0, 0, 0, 1);
+	width:338px;
+	height:29px;
+	position:absolute;
+	left:0px;
+	top:32px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
